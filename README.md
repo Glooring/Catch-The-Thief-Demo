@@ -1,7 +1,5 @@
 # Catch The Thief - Demo
 
-**Catch The Thief** is a turn-based puzzle game built in Unity where players control police officers on a connected node graph. The goal is to strategically position the officers to block the thief's movements using strategic gameplay.
-
 This repository contains only the web demo build of the project. The source code is not included here to protect the integrity of the project for future development and release.
 
 ## Demo
